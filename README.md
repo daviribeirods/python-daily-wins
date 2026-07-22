@@ -1,4 +1,4 @@
-# Python Daily Wins
+# 🌱 Python Daily Wins
 
 ## Introdução
 
