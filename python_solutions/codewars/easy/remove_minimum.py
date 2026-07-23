@@ -14,4 +14,4 @@ def remove_smallest(numbers: list) -> list:
 
     return new_array
 
-print(remove_smallest([5, 5, 1, 1, 2, 3]))
+print(remove_smallest([5, 5, 1, 1, 2, 1, 3]))
